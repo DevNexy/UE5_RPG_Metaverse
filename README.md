@@ -267,12 +267,81 @@
     </details>
     <details>
       <summary>공통 사항</summary>
+      <ul>
+        NPC(오브젝트) 범위
+        <ul>
+          <li>각 범위에 플레이어가 들어갈 경우 혼잣말 및 상호작용 버튼 출력</li>
+          <li>혼잣말 범위에 플레이어가 들어올 경우 혼잣말 말풍선 출력</li>
+          <li>상호작용 범위에 플레이어가 들어올 경우 상호작용 버튼 나타남 + 혼잣말 포함</li>
+        </ul>
+      </ul>
     </details>
   </ul>
 </details>
 <details>
   <summary>구성</summary>
+  <ul>
+    <details>
+      <summary>기능 표시 UI</summary>
+      <ul>
+        <li>NPC 또는 오브젝트의 기능에 따른 머리 위 UI : 느낌표 UI / 말풍선 UI / 물음표 UI</li>
+      </ul>
+    </details>
+    <details>
+      <summary>NPC 또는 오브젝트 이름</summary>
+      <ul>
+        <li>NPC 또는 오브젝트 머리 위에 상시 나타남</li>
+      </ul>
+    </details>
+    <details>
+      <summary>NPC 혼잣말</summary>
+      <ul>
+        <li>NPC의 혼잣말 범위에 플레이어가 들어간 경우 NPC가 혼잣말 출력</li>
+        <li>NPC가 혼잣말 출력 중 범위를 벗어나면, 꺼짐</li>
+      </ul>
+    </details>
+    <details>
+      <summary>상호작용 버튼</summary>
+      <ul>
+        1. 공통
+        <ul>
+          <li>NPC 또는 오브젝트 상호작용 범위에 플레이어가 들어간 경우 상호작용 버튼 생성</li>
+        </ul>
+        2. 대화 시작 버튼
+        <ul>
+          <li>버튼 클릭 시 대화 화면으로 전</li>
+        </ul>
+      </ul>
+    </details>
+  </ul>
 </details>
 <details>
-  <summary>대화화면</summary>
+  <summary>대화 화면</summary>
+  <ul>
+    <details>
+      <summary>대화 화면 전환</summary>
+      <ul>
+        1. 화면 전환 시 고정 UI들이 사라짐
+        2. 이후, 대화 화면 UI가 생성
+        <ul>
+          <li>대화 창</li>
+          <li>대화 선택지 UI</li>
+        </ul>
+      </ul>
+    </details>
+    <details>
+      <summary>NPC 대화 창</summary>
+      <ul>
+        1. NPC 대화 창은 중앙 하단에 위치
+        <ul>
+          <li>NPC가 출력하는 대사는 데이터 테이블에 작성</li>
+          <li>NPC 대사는 화면을 바라보는 기준 좌에서 우로 한 글자씩 출력</li>
+        </ul>
+        2. 대화 스킵 기능
+        <ul>
+          <li>대화 스킵 클릭 시, 대화 화면에서 다시 플레이 화면으로 전환환</li>
+        </ul>
+      </ul>
+    </details>
+  </ul>
 </details>
