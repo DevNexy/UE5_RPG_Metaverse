@@ -345,3 +345,45 @@
     </details>
   </ul>
 </details>
+
+<미니맵, 지도>
+<details>
+  <summary>특징</summary>
+  <ul>
+    <details>
+      <summary>미니맵</summary>
+      <ul>
+        <li>메인 메뉴의 미니맵 버튼 클릭 시 미니맵 창 출력</li>
+        <li>미니맵 창 출력 시에도 조작 가능</li>
+        <li>미니맵 창은 메인 메뉴의 미니맵 버튼으로 토글 형식</li>
+      </ul>
+    </details>
+    <details>
+      <summary>지도</summary>
+      <ul>
+        <li>미니맵 클릭 시 전체 지도 창 출력</li>
+        <li>전체 지도 창 출력 시 닫기 버튼 외 다른 조작 불가능</li>
+      </ul>
+    </details>
+  </ul>
+</details>
+<details>
+  <summary>구성</summary>
+  <ul>
+    <details>
+      <summary>미니맵</summary>
+      <ul>
+        <li>플레이어 방향과 같은 화살표 이미지로 표시</li>
+        <li>NPC, 오브젝트, 다른 플레이어 따로 이미지 표시</li>
+        <li>미니맵 범위에 벗어나면 이미지 제거</li>
+      </ul>
+    </details>
+    <details>
+      <summary>지도</summary>
+      <ul>
+        <li>플레이어 방향과 같은 화살표 이미지로 표시</li>
+        <li>NPC, 오브젝트, 다른 플레이어 따로 표시</li>
+      </ul>
+    </details>
+  </ul>
+</details>
