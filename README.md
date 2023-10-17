@@ -238,3 +238,41 @@
     </ul>
   </ul>
 </details>
+
+<NPC 대화 시스템 및 퀘스트 상호작용>
+<details>
+  <summary>특징</summary>
+  <ul>
+    <details>
+      <summary>진입 방법</summary>
+      <ul>
+        <li>NPC/오브젝트에게 이동→상호작용 버튼 클릭</li>
+      </ul>
+    </details>
+    <details>
+      <summary>UI 구성</summary>
+      <ul>
+        1. 대화 시작
+        <ul>
+          <li>기능 표시 UI</li>
+          <li>NPC/오브젝트 이름</li>
+          <li>상호작용 버튼</li>
+        </ul>
+        2. 대화 진행(플레이어 선택지)
+        <ul>
+          <li>플레이어 대화 선택지 버튼</li>
+          <li>NPC 대화 창</li>
+        </ul>
+      </ul>
+    </details>
+    <details>
+      <summary>공통 사항</summary>
+    </details>
+  </ul>
+</details>
+<details>
+  <summary>구성</summary>
+</details>
+<details>
+  <summary>대화화면</summary>
+</details>
