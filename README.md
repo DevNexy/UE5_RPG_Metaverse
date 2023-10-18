@@ -68,8 +68,7 @@
     <li>씬이 변경될 때(로딩) 출력되는 씬</li>
   </ul>
 </details>
-![image](https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/1cc73b60-a6f0-4d9a-b481-23cef973cd6a)
-
+<img src="https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/1cc73b60-a6f0-4d9a-b481-23cef973cd6a" width="50%" height="50%">
 
 
 ### <캐릭터 커스터마이징 UI>
@@ -87,11 +86,7 @@
     <li>마지막 커스터마이징 탭(신발)에서 다음 버튼을 누르면 닉네임 설정으로 이동</li>
   </ul>
 </details>
-![image](https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/5b75a664-055e-4bce-bce1-9f0cd5a2676c)
-![image](https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/45a04508-ee32-4d6e-87d6-54bce2d561e8)
-![image](https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/40ec3cd2-2fc9-4bb3-b99f-68c023336668)
-![image](https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/5f51c4f0-c5e7-4fdc-94dc-374999995659)
-![image](https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/0e71dc90-643d-4aff-8c35-7411a0fcbef1)
+<img src="https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/5b75a664-055e-4bce-bce1-9f0cd5a2676c" width="50%" height="50%"><img src="https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/45a04508-ee32-4d6e-87d6-54bce2d561e8" width="50%" height="50%"><img src="https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/40ec3cd2-2fc9-4bb3-b99f-68c023336668" width="50%" height="50%"><img src="https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/5f51c4f0-c5e7-4fdc-94dc-374999995659" width="50%" height="50%"><img src="https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/0e71dc90-643d-4aff-8c35-7411a0fcbef1" width="50%" height="50%">
 
 
 ### <닉네임 설정 기능 및 팝업 UI>
@@ -116,14 +111,12 @@
     <li>닉네임 결정창의 취소 버튼 클릭 시, 닉네임 결정창이 닫히고 닉네임 설정창으로 돌아간다.</li>
   </ul>
 </details>
-![image](https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/e0f2cf32-5985-4158-b718-eb6819deca83)
-![image](https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/5e650172-95df-4223-910a-01739dfcc16c)
-![image](https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/8384fcc4-ac9d-4ca4-b219-e32270e8e08c)
-![image](https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/b05e1cb1-f079-43d8-9d2a-8a4be23561a3)
+<img src="https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/e0f2cf32-5985-4158-b718-eb6819deca83" width="50%" height="50%"><img src="https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/5e650172-95df-4223-910a-01739dfcc16c" width="50%" height="50%"><img src="https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/8384fcc4-ac9d-4ca4-b219-e32270e8e08c" width="50%" height="50%"><img src="https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/b05e1cb1-f079-43d8-9d2a-8a4be23561a3" width="50%" height="50%">
+
 
 
 ### <메인메뉴>
-![image](https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/d7019668-0490-4780-b02f-1d7228233099)
+<img src="https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/d7019668-0490-4780-b02f-1d7228233099" width="50%" height="50%">
 
 
 ### <인벤토리>
@@ -150,18 +143,12 @@
     <li>아이템 장착 시 탭을 나간 다음 다시 들어왔을 때 새롭게 장착한 아이템이 첫 번째 슬롯에 출력</li>
   </ul>
 </details>
-![image](https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/8fc9e463-c232-483a-b039-366c62d6420f)
-![image](https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/318fa2b4-820b-4fbe-bce4-2293dd3d50d8)
-![image](https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/a5ef2fce-8ca1-44ea-9329-9fe68597e97d)
-![image](https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/a7a24f91-1164-40d7-a7e7-0773f193ac89)
+<img src="https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/8fc9e463-c232-483a-b039-366c62d6420f" width="50%" height="50%"><img src="https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/318fa2b4-820b-4fbe-bce4-2293dd3d50d8" width="50%" height="50%"><img src="https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/a5ef2fce-8ca1-44ea-9329-9fe68597e97d" width="50%" height="50%"><img src="https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/a7a24f91-1164-40d7-a7e7-0773f193ac89" width="50%" height="50%">
+
 
 
 ### <상점>
-![image](https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/0f661141-6aa5-4dc4-a88e-e8a8861577ef)
-![image](https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/a77bd486-a025-4d12-96bd-5062365342de)
-![image](https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/71923bc8-2797-4c7c-b924-8e11b0c8bfda)
-![image](https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/81536c7c-d64a-4af2-9c52-e0c5614caef4)
-![image](https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/7632ca63-e2a9-4a39-ae7e-3b21054e06cc)
+<img src="https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/0f661141-6aa5-4dc4-a88e-e8a8861577ef" width="50%" height="50%"><img src="https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/a77bd486-a025-4d12-96bd-5062365342de" width="50%" height="50%"><img src="https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/71923bc8-2797-4c7c-b924-8e11b0c8bfda" width="50%" height="50%"><img src="https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/81536c7c-d64a-4af2-9c52-e0c5614caef4" width="50%" height="50%"><img src="https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/7632ca63-e2a9-4a39-ae7e-3b21054e06cc" width="50%" height="50%">
 
 
 ### <텍스트 채팅>
@@ -176,31 +163,29 @@
 
 
 ### <팝업 시스템>
-인벤토리-아이템 클릭 시   
-![image](https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/e2054f1f-957b-47dd-a206-9014585e02dd)
-![image](https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/6aa09c77-4c7f-4ee5-a519-c206b51ba5e8)
+인벤토리-아이템 클릭 시  
+<img src="https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/e2054f1f-957b-47dd-a206-9014585e02dd" width="50%" height="50%"><img src="https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/6aa09c77-4c7f-4ee5-a519-c206b51ba5e8" width="50%" height="50%">
 
 상점-아이템 구매 시   
-![image](https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/eb0d8fa8-b73b-4d62-9fc0-5f0777517d6b)
+<img src="https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/eb0d8fa8-b73b-4d62-9fc0-5f0777517d6b" width="50%" height="50%">
 
 상점-아이템 구매 완료   
-![image](https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/52649b9c-5154-4670-a136-32938f95be07)
+<img src="https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/52649b9c-5154-4670-a136-32938f95be07" width="50%" height="50%">
 
 상점-아이템 구매 불가   
-![image](https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/047fbd94-4bd7-47b4-9bff-cfd27e26a544)
-![image](https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/b31e3351-85d2-4f7a-8554-8cc05327bed4)
+<img src="https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/047fbd94-4bd7-47b4-9bff-cfd27e26a544" width="50%" height="50%"><img src="https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/b31e3351-85d2-4f7a-8554-8cc05327bed4" width="50%" height="50%">
 
 옵션-로그 아웃   
-![image](https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/29ad1401-1a33-4717-8f42-7cece3d87089)
+<img src="https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/29ad1401-1a33-4717-8f42-7cece3d87089" width="50%" height="50%">
 
 옵션-회원 탈퇴   
-![image](https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/7f4150e0-0ed0-4ff4-b652-1fec249b7a7e)
+<img src="https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/7f4150e0-0ed0-4ff4-b652-1fec249b7a7e" width="50%" height="50%">
 
 옵션-게임 종료   
-![image](https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/6729d1c4-1c15-4f4f-9b5b-d513016bd5a8)
+<img src="https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/6729d1c4-1c15-4f4f-9b5b-d513016bd5a8" width="50%" height="50%">
 
 채널 변경-채널 이동   
-![image](https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/2c672d6e-2f48-4d05-8973-5104faab45d7)
+<img src="https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/2c672d6e-2f48-4d05-8973-5104faab45d7" width="50%" height="50%">
 
 <details>
   <summary>UI 연출</summary>
@@ -243,10 +228,8 @@
     </ul>
   </details>
 </details>
-![image](https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/0e07ed41-2291-4484-9f68-38dec31877f6)
-![image](https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/926b56ab-079d-4c98-bc13-d964972bd90d)
-![image](https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/e187b8ba-9733-497d-bbec-6b3b3b8cf03f)
-![image](https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/1f590e51-050b-4887-bcca-26d220241d06)
+<img src="https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/0e07ed41-2291-4484-9f68-38dec31877f6" width="50%" height="50%"><img src="https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/926b56ab-079d-4c98-bc13-d964972bd90d" width="50%" height="50%"><img src="https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/e187b8ba-9733-497d-bbec-6b3b3b8cf03f" width="50%" height="50%"><img src="https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/1f590e51-050b-4887-bcca-26d220241d06" width="50%" height="50%">
+
 <details>
   <summary>알림 탭 구성</summary>
   <ul>
@@ -265,8 +248,7 @@
   </details>
   </ul>
 </details>
-![image](https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/6e7324d5-8604-4ebc-96b1-13318e10ee35)
-![image](https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/190b793a-3888-4da7-a2b8-43fbb4086450)
+<img src="https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/6e7324d5-8604-4ebc-96b1-13318e10ee35" width="50%" height="50%"><img src="https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/190b793a-3888-4da7-a2b8-43fbb4086450" width="50%" height="50%">
 
 <details>
   <summary>계정 탭 구성</summary>
@@ -277,10 +259,7 @@
     <li>게임 종료 버튼 클릭 시 화면 중앙에 게임종료 확인 팝업</li>
   </ul>
 </details>
-![image](https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/06bbd156-836e-4c35-9c74-6fc0141d3d66)
-![image](https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/86313589-bd34-4e1e-8a95-805e1efb61fb)
-![image](https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/ae543bc5-33fb-4644-af00-40625778c421)
-![image](https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/d49e8773-c9ff-4057-8014-7fa6c3c19dd8)
+<img src="https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/06bbd156-836e-4c35-9c74-6fc0141d3d66" width="50%" height="50%"><img src="https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/86313589-bd34-4e1e-8a95-805e1efb61fb" width="50%" height="50%"><img src="https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/ae543bc5-33fb-4644-af00-40625778c421" width="50%" height="50%"><img src="https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/d49e8773-c9ff-4057-8014-7fa6c3c19dd8" width="50%" height="50%">
 
 <details>
   <summary>UI 연출</summary>
@@ -407,15 +386,7 @@
     </details>
   </ul>
 </details>
-![image](https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/52ae6030-b0eb-4d42-934b-0b25658e5462)
-![image](https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/e5839bc3-d00b-4cf4-b7c5-9ec2d3d656b6)
-![image](https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/6338cfa0-8179-4cfc-98e8-53746a5cdb54)
-![image](https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/c0d2c243-1965-4d0d-ba88-16b9d49ef06a)
-![image](https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/dbbf1115-eba5-435e-aa8d-2864a590f51e)
-![image](https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/d08dd3cd-1002-45d1-9130-1f6016f21774)
-![image](https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/a39fecb0-3f8b-4304-a7ca-51589271586b)
-![image](https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/a173e6b5-0e03-49f5-8c99-13e44970eae2)
-
+<img src="https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/52ae6030-b0eb-4d42-934b-0b25658e5462" width="50%" height="50%"><img src="https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/e5839bc3-d00b-4cf4-b7c5-9ec2d3d656b6" width="50%" height="50%"><img src="https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/6338cfa0-8179-4cfc-98e8-53746a5cdb54" width="50%" height="50%"><img src="https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/c0d2c243-1965-4d0d-ba88-16b9d49ef06a" width="50%" height="50%"><img src="https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/dbbf1115-eba5-435e-aa8d-2864a590f51e" width="50%" height="50%"><img src="https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/d08dd3cd-1002-45d1-9130-1f6016f21774" width="50%" height="50%"><img src="https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/a39fecb0-3f8b-4304-a7ca-51589271586b" width="50%" height="50%"><img src="https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/a173e6b5-0e03-49f5-8c99-13e44970eae2" width="50%" height="50%">
 
 ### <미니맵, 지도>
 <details>
@@ -458,8 +429,5 @@
     </details>
   </ul>
 </details>
-![image](https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/3ef0b176-8e0f-4c20-83d4-0003d148dad5)
-![image](https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/d3448794-f63d-464e-adb8-05fd3d897344)
-![image](https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/aecd46f7-56f6-40e1-b0e7-13210e92d81c)
-![image](https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/fe69bdab-f02d-4616-aa19-71fc5cf469e2)
+<img src="https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/3ef0b176-8e0f-4c20-83d4-0003d148dad5" width="50%" height="50%"><img src="https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/d3448794-f63d-464e-adb8-05fd3d897344" width="50%" height="50%"><img src="https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/aecd46f7-56f6-40e1-b0e7-13210e92d81c" width="50%" height="50%"><img src="https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/fe69bdab-f02d-4616-aa19-71fc5cf469e2" width="50%" height="50%">
 
