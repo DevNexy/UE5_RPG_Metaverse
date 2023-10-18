@@ -442,4 +442,4 @@
 [인벤토리, 상점](https://youtu.be/A0Bri6zioo8?si=Yc7NVyPbUmDfMZcq)   
 [옵션, 설정](https://youtu.be/nz8lhpG_ag8?si=5F3N7Cf-HaKSRqqj)   
 [NPC 대화시스템 및 퀘스트 상호작용](https://www.youtube.com/watch?v=jEwB2ixErGU)   
-[채팅](https://www.youtube.com/watch?v=vhv7H362UNc)
+[채팅](https://youtu.be/cH3fYAEDM4Q)
