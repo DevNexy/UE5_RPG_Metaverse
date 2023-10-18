@@ -436,3 +436,9 @@
 </details>
 <img src="https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/3ef0b176-8e0f-4c20-83d4-0003d148dad5" width="50%" height="50%"><img src="https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/d3448794-f63d-464e-adb8-05fd3d897344" width="50%" height="50%"><img src="https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/aecd46f7-56f6-40e1-b0e7-13210e92d81c" width="50%" height="50%"><img src="https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/fe69bdab-f02d-4616-aa19-71fc5cf469e2" width="50%" height="50%">
 
+# 시연 동영상
+[인트로, 커스터마이징](https://youtu.be/i7Z545AtglQ?si=VWKJG_QN0DCNQlZ-)
+[인벤토리, 상점](https://youtu.be/A0Bri6zioo8?si=Yc7NVyPbUmDfMZcq)
+[옵션, 설정](https://youtu.be/nz8lhpG_ag8?si=5F3N7Cf-HaKSRqqj)
+[NPC 대화시스템 및 퀘스트 상호작용](https://www.youtube.com/watch?v=jEwB2ixErGU)
+[채팅](https://www.youtube.com/watch?v=vhv7H362UNc)
