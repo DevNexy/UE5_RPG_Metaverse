@@ -68,7 +68,10 @@
     <li>씬이 변경될 때(로딩) 출력되는 씬</li>
   </ul>
 </details>
-<img src="https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/1cc73b60-a6f0-4d9a-b481-23cef973cd6a" width="50%" height="50%">
+<div align="center">
+  <img src="https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/1cc73b60-a6f0-4d9a-b481-23cef973cd6a" width="50%" height="50%">
+  <p>로딩 바</p>
+</div>
 
 
 ### <캐릭터 커스터마이징 UI>
@@ -86,8 +89,23 @@
     <li>마지막 커스터마이징 탭(신발)에서 다음 버튼을 누르면 닉네임 설정으로 이동</li>
   </ul>
 </details>
-<img src="https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/5b75a664-055e-4bce-bce1-9f0cd5a2676c" width="50%" height="50%"><img src="https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/45a04508-ee32-4d6e-87d6-54bce2d561e8" width="50%" height="50%"><img src="https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/40ec3cd2-2fc9-4bb3-b99f-68c023336668" width="50%" height="50%"><img src="https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/5f51c4f0-c5e7-4fdc-94dc-374999995659" width="50%" height="50%"><img src="https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/0e71dc90-643d-4aff-8c35-7411a0fcbef1" width="50%" height="50%">
 
+<figure class="half">
+  <img src="https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/5b75a664-055e-4bce-bce1-9f0cd5a2676c" width="49%" height="49%">
+  <img src="https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/45a04508-ee32-4d6e-87d6-54bce2d561e8" width="49%" height="49%">
+  <p>성별 선택 및 헤어선택</p>
+</figure>
+
+<figure class="half">
+  <img src="https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/40ec3cd2-2fc9-4bb3-b99f-68c023336668" width="49%" height="49%">
+  <img src="https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/5f51c4f0-c5e7-4fdc-94dc-374999995659" width="49%" height="49%">
+  <p>상의 선택 및 하의 선택</p>
+</figure>
+
+<figure class="half">
+  <img src="https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/0e71dc90-643d-4aff-8c35-7411a0fcbef1" width="49%" height="49%">
+  <p>신발 선택</p>
+</figure>
 
 ### <닉네임 설정 기능 및 팝업 UI>
 <details>
@@ -111,12 +129,25 @@
     <li>닉네임 결정창의 취소 버튼 클릭 시, 닉네임 결정창이 닫히고 닉네임 설정창으로 돌아간다.</li>
   </ul>
 </details>
-<img src="https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/e0f2cf32-5985-4158-b718-eb6819deca83" width="50%" height="50%"><img src="https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/5e650172-95df-4223-910a-01739dfcc16c" width="50%" height="50%"><img src="https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/8384fcc4-ac9d-4ca4-b219-e32270e8e08c" width="50%" height="50%"><img src="https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/b05e1cb1-f079-43d8-9d2a-8a4be23561a3" width="50%" height="50%">
+<figure class="half">
+  <img src="https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/e0f2cf32-5985-4158-b718-eb6819deca83" width="49%" height="49%">
+  <img src="https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/5e650172-95df-4223-910a-01739dfcc16c" width="49%" height="49%">
+  <p>닉네임 설정 창</p>
+  <p>닉네임 중복체크 안하고 확인 눌렀을 때</p>
+</figure>
 
-
+<figure class="half">
+  <img src="https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/8384fcc4-ac9d-4ca4-b219-e32270e8e08c" width="49%" height="49%">
+  <img src="https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/b05e1cb1-f079-43d8-9d2a-8a4be23561a3" width="49%" height="49%">
+  <p>닉네임 중복 체크</p>
+  <p>닉네임 결정창</p>
+</figure>
 
 ### <메인메뉴>
-<img src="https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/d7019668-0490-4780-b02f-1d7228233099" width="50%" height="50%">
+<figure class="half">
+  <img src="https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/d7019668-0490-4780-b02f-1d7228233099" width="49%" height="49%">
+  <p>메인 메뉴</p>
+</figure>
 
 
 ### <인벤토리>
