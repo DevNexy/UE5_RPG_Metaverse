@@ -156,10 +156,17 @@
   <li>화면 중앙 하단의 버튼을 통해 채팅 UI를 띄울 수 있음</li>
   <li>채팅 버튼을 클릭하여 채팅 UI가 활성화되면, 채팅 버튼의 테두리가 초록색으로 변함</li>
   <li>채팅 UI는 투명도 존재 (채팅 창을 켜도 게임 화면이 보이도록)</li>
+  <li>채팅 내용 오른쪽 말풍선은 나 자신, 왼쪽 말풍선은 다른 플레이어</li>
   <li>안드로이드일 경우 채팅 입력 칸을 누르면 가상 키보드가 열리고, 채팅 창이 위로 올라가게 됨</li>
   <li>안드로이드일 경우 가상 키보드 이외의 화면 클릭 시, 가상 키보드가 닫히고 채팅 창이 다시 내려옴</li>
   <li>채팅 UI 우측 상단의 닫기 버튼을 클릭하거나 화면 중앙 하단의 채팅 버튼 클릭 시 채팅 UI 닫힘 → 채팅 버튼의 초록색 테두리 사라짐</li>
 </ul>
+[window 채팅 화면]   
+
+<img src="https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/5780c3be-8ba8-4fe8-b75b-5396b3334037" width="50%" height="50%"><img src="https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/5b87c500-7ce5-45db-831e-330ae6170701" width="50%" height="50%">
+
+[Android 채팅 화면]     
+<img src="https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/4453e924-1cc9-4ad7-9675-26bf89bdcc14" width="50%" height="50%"><img src="https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/2aad505f-8cea-423c-81bb-b1209fc61436" width="50%" height="50%">
 
 
 ### <팝업 시스템>
