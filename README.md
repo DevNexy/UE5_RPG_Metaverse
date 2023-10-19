@@ -118,7 +118,7 @@
 <img src="https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/e0f2cf32-5985-4158-b718-eb6819deca83" width="50%" height="50%"><img src="https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/5e650172-95df-4223-910a-01739dfcc16c" width="50%" height="50%"><img src="https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/8384fcc4-ac9d-4ca4-b219-e32270e8e08c" width="50%" height="50%"><img src="https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/b05e1cb1-f079-43d8-9d2a-8a4be23561a3" width="50%" height="50%">
  
 
-### <메인메뉴>
+### <메인메뉴 고정 UI>
 <details>
   <summary>기능 버튼 묶음</summary>
   <ul>
