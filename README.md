@@ -247,6 +247,54 @@
   </ul>
 </details>
 
+### <채널>
+<details>
+  <summary>기능</summary>
+  <ul>
+    <li>채널 선택 창에서 다른 채널로 이동 가능</li>
+    <li>채널 이름, 접속 중인 채널 인원 확인 가능</li>
+    <li>채널을 선택하지 않은 상태라면 이동 버튼 비활성화</li>
+    <details>
+      <summary>채널 생성 기준</summary>
+      <ul>
+        <li>게임 내 유저가 아무도 없을 때, 처음으로 유저가 접속한 경우</li>
+        <li>현재 존재하는 채널들 모두 수용 가능 인원이 가득 찼을 때</li>
+      </ul>
+    </details>
+    <details>
+      <summary>채널 삭제 기준</summary>
+      <ul>
+        <li>현재 채널에 입장한 유저가 0명일 때</li>
+      </ul>
+    </details>
+    <details>
+      <summary>채널 수용 인원이 가득 찬 채널에는 입장 불가</summary>
+      <ul>
+        <li>가득 찬 채널의 경우, 비활성화 처리(선택 불가) + 인원 수 표시 텍스트를 빨간색으로 강조</li>
+      </ul>
+    </details>
+    <details>
+      <summary>현재 내가 있는 채널 버튼의 경우, 푸시 상태로 되어 있음(선택 불가)</summary>
+      <ul>
+        <li>이동을 원하는 채널 버튼 클릭 시, 해당 채널 버튼의 색상 변경</li>
+        <li>채널을 선택하면 이동 버튼 활성화</li>
+      </ul>
+    </details>
+    <details>
+      <summary>채널을 선택하고 이동 버튼을 클릭 시, 채널 이동 팝업 창을 띄움</summary>
+      <ul>
+        <li>확인 버튼 클릭 시 해당 채널로 이동</li>
+        <li>취소 버튼 클릭 시 팝업 창 닫힘</li>
+      </ul>
+    </details>
+    <details>
+      <summary>채널 선택창 닫기</summary>
+      <ul>
+        <li>채널 선택 창 우측 상단의 닫기 버튼 클릭 시 채널 선택 창 닫힘</li>
+      </ul>
+    </details>
+  </ul>
+</details>
 
 ### <설정(옵션) 시스템>   
 설정 탭 : 사운드 탭 / 알림 탭 / 계정 탭
