@@ -119,6 +119,44 @@
  
 
 ### <메인메뉴>
+<details>
+  <summary>기능 버튼 묶음</summary>
+  <ul>
+    <li>화면 우측 상단에 배치</li>
+    <li>구성: 미니맵, 출석 체크, 상점, 인벤토리, 옵션, 퀘스트 리스트</li>
+    <li>출석 체크 아이콘과 인벤토리 아이콘의 경우, 해당 기능에 변경 사항이 존재하면 아이콘 좌측 상단에 알림 표시가 생김</li>
+    <li>출석 체크 변경 사항 예시 : 출석 체크가 초기화되고, 아직 출석을 하지 않은 경우</li>
+    <li>인벤토리 변경 사항 예시 : 새로운 아이템을 획득한 경우</li>
+  </ul>
+</details>
+<details>
+  <summary>채널 선택</summary>
+  <ul>
+    <li>화면 좌측 상단에 배치</li>
+    <li>채널을 선택하여 해당 채널로 이동하는 기능</li>
+  </ul>
+</details>
+<details>
+  <summary>닉네임 및 보유 포인트</summary>
+  <ul>
+    <li>화면 좌측 상단에 배치</li>
+    <li>닉네임 및 포인트 보유량 확인 가능</li>
+  </ul>
+</details>
+<details>
+  <summary>조이스틱</summary>
+  <ul>
+    <li>화면 좌측 하단에 배치</li>
+    <li>플레이어 캐릭터 이동 기능</li>
+  </ul>
+</details>
+<details>
+  <summary>채팅 및 음성 채팅 버튼</summary>
+  <ul>
+    <li>텍스트 채팅 버튼 : 화면 중앙 하단 배치</li>
+    <li>음성 채팅 버튼 : 화면 우측 하단 배치</li>
+  </ul>
+</details>
 <img src="https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/d7019668-0490-4780-b02f-1d7228233099" width="50%" height="50%">
 
 
