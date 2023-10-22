@@ -295,6 +295,7 @@
     </details>
   </ul>
 </details>
+<img src="https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/f8e59c24-3ae4-4468-9438-246594292164" width="50%" height="50%"><img src="https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/0276f509-2562-43c5-a2de-da138aebe978" width="50%" height="50%"><img src="https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/59cd7cf7-2576-4a71-b93f-1de67c656a96" width="50%" height="50%"><img src="https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/c3a7bb24-eb17-4d5e-95b8-466ae40e0e2d" width="50%" height="50%"><img src="https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/7e23efea-1b39-4410-a10b-498d71d64e69" width="50%" height="50%"><img src="https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/02fa17e4-25a8-4afc-b540-f3a4c4757a7a" width="50%" height="50%">
 
 ### <설정(옵션) 시스템>   
 설정 탭 : 사운드 탭 / 알림 탭 / 계정 탭
@@ -539,3 +540,4 @@
 [옵션, 설정](https://youtu.be/nz8lhpG_ag8?si=5F3N7Cf-HaKSRqqj)   
 [NPC 대화시스템 및 퀘스트 상호작용](https://www.youtube.com/watch?v=jEwB2ixErGU)   
 [채팅](https://youtu.be/cH3fYAEDM4Q)
+[채널 이동](https://youtu.be/5utP6cDGx0g?si=Z_b3Bo-yX9iRFpBP)
