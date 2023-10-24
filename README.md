@@ -348,6 +348,7 @@
         <li>기존에 체크되어 있던 버튼은 자동으로 체크 해제+회색으로 버튼 색 변경</li>
       </ul>
   </details>
+    <li>알림 값 체크 항목도 텍스트 파일에 저장</li>
   </ul>
 </details>
 <img src="https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/6e7324d5-8604-4ebc-96b1-13318e10ee35" width="50%" height="50%"><img src="https://github.com/DevNexy/UE5_RPG_Metaverse/assets/92451281/190b793a-3888-4da7-a2b8-43fbb4086450" width="50%" height="50%">
